@@ -25,8 +25,5 @@ class CSVPairedTTestPlugin:
 
 
 	def output(self, filename):
-		print self.column1	
-		print self.column2
-
 		t, p = stats.ttest_rel(self.column1, self.column2)
 		print t, p
