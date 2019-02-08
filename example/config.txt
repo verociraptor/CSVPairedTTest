@@ -1,2 +1,2 @@
 Prefix plugins/TTestDependent/example/
-Plugin TTestDependent inputfile example.csv outputfile none
+Plugin TTestDependentPlugin inputfile example.csv outputfile none
