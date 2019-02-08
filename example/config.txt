@@ -1,2 +1,2 @@
-Prefix plugins/CSVPairedTTest/example/
-Plugin CSVPairedTTest inputfile example.csv outputfile none
+Prefix plugins/TTestDependent/example/
+Plugin TTestDependent inputfile example.csv outputfile none
