@@ -2,7 +2,7 @@ import sys
 import csv
 from scipy import stats
 
-class CSVPairedTTestPlugin:
+class TTestDependentPlugin:
 	def input(self, filename):
 		self.myfile = filename
 
