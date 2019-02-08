@@ -1,0 +1,2 @@
+Prefix plugins/CSVPairedTTest/example/
+Plugin CSVPairedTTest inputfile example.csv outputfile none
