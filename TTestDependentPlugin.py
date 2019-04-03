@@ -26,4 +26,4 @@ class TTestDependentPlugin:
 
 	def output(self, filename):
 		t, p = stats.ttest_rel(self.column1, self.column2)
-		print t, p
+		print(t, p)
