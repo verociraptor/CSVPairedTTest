@@ -19,8 +19,8 @@ class TTestDependentPlugin:
 			self.column2.append(row[2])
 
 		#convert from string list to int list
-		self.column1 = [int(i) for i in self.column1]
-		self.column2 = [int(i) for i in self.column2]
+		self.column1 = [float(i) for i in self.column1]
+		self.column2 = [float(i) for i in self.column2]
 		
 
 
